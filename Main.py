@@ -1,4 +1,4 @@
-from Filme_locadora import Filme, Cliente
+from FilmeLocadora import Cliente, Filme
 import random
 from datetime import date, timedelta
 
